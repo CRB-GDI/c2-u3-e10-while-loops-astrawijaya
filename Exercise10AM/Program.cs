@@ -27,7 +27,7 @@
             //Print message using if statements
             if (choice == 1)
                 {
-                    Console.WriteLine("Creating a new game... heh");
+                    Console.WriteLine("Creating a new game... HEH!");
                 }
             else if (choice == 2)
                 {
